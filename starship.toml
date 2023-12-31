@@ -6,6 +6,9 @@ style = "bold #0096FF"
 repo_root_style = "bold #6699CC"
 truncate_to_repo = false
 
+[aws]
+disabled = true
+
 [status]
 disabled = false
 
